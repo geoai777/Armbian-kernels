@@ -1,0 +1,4 @@
+fdt_file=imx6dl-wandboard.dtb
+console=display
+disp_mode=1366x768m60
+bootlogo=true
