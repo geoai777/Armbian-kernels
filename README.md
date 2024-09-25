@@ -60,3 +60,7 @@ in my case it was: `etcher output/images/Armbian_21.02.0-trunk_Wandboard-srv_foc
 - https://github.com/armbian/build - armbian sources
 - https://github.com/balena-io/etcher-cli - sd burning tool
 - https://ubuntu.com/#download - ubuntu image download
+
+
+## Disclaimer
+the software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and oninfringement. in no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
